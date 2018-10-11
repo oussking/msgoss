@@ -82,7 +82,7 @@ button {
 
 @font-face {
     font-family: 'skipop';
-    src:url('../fonts/skipop.ttf') format('opentype');
+    src:url('https://rawcdn.githack.com/oussking/msgoss/master/skipop.ttf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
